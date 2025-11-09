@@ -63,6 +63,10 @@ const Projects = () => {
           โพสต์และข่าวสารจากเพจ ที่เราแนะนำสำหรับคุณในช่วงนี้
         </p>
         <h2 className='text-center'>‼️ผู้ใช้ทุกท่านสามารถคลิ้กที่โพสต์ด้านเพื่อเข้าไปอ่านฉบับเต็มทาง เพจ ได้เลยนะคะ</h2>
+        <div className='flex justify-center items-center h-scree'>
+          <a href="https://www.facebook.com/Goodyseed" className=' bg-blue-600 text-white font-medium px-6 py-4 rounded-full shadow-md hover:bg-blue-700 hover:shadow-lg transition-all duration-300 ease-in-out transform hover:-translate-y-1'>กดที่นี่เพื่อไปยังเพจ Facebook</a>
+        </div>
+        
 
         {/* Slider buttons */}
         <div className='flex justify-end items-center mb-8'>
