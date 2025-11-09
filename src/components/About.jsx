@@ -28,7 +28,7 @@ const About = () => {
         
         {/* ฝั่งขวา - รูป Page_fb และข้อมูล */}
         <div className='flex flex-col w-full lg:w-1/2'>
-          <img src="/src/assets/Page_fb.jpg" alt="Facebook Page" className='w-full rounded-lg shadow-md mb-6 md:mb-8'/>
+          <img src="/public/Page_fb.jpg" alt="Facebook Page" className='w-full rounded-lg shadow-md mb-6 md:mb-8'/>
           
           <div className='grid grid-cols-2 gap-4 sm:gap-6 md:gap-8 mb-8 md:mb-10'>
             <div>
